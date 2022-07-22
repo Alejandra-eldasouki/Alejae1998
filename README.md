@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Alejandra+✌🏽)](https://git.io/typing-svg)
 
 <!--
 **Alejae1998/Alejae1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱 I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
+ 📍 Beased in Portland, Oregon
+ 🔭 I'm currentrly expanding my knoelwdge about web development. Which consists of:
+     -Languages: HTML, CSS, JavaScript, Python
+     -Environments/Frameworks: React, Material-UI, Node.js
+     -Testing: Jest, SuperTest, React Testing Library
+     -Dev Tools: VScode, Github, Netlify
+     -Databases: Supabase, Postgres/SQL
+     -Best Practices: TDD, Pair Programming
+
+  💬 Feel free to reach out to me at https://www.linkedin.com/in/alejandrael-dasouki/

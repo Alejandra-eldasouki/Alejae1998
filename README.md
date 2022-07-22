@@ -2,9 +2,9 @@
 
 
 
- 🌱 I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
- 📍 Beased in Portland, Oregon
- 🔭 I'm currentrly expanding my knoelwdge about web development. Which consists of:
+ 🌱 -I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
+ 📍- Beased in Portland, Oregon
+ 🔭 -I'm currentrly expanding my knoelwdge about web development. Which consists of:
      -Languages: HTML, CSS, JavaScript, Python
      -Environments/Frameworks: React, Material-UI, Node.js
      -Testing: Jest, SuperTest, React Testing Library

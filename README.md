@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+I'm+Alejandra)](https://git.io/typing-svg)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=F7EA55&lines=Hello+there%2C++I'm+Alejandra++%F0%9F%91%8B+)](https://git.io/typing-svg)
 
  🌱 -I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
  📍- Beased in Portland, Oregon

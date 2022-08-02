@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=F7EA55&lines=Hello+there%2C++I'm+Alejandra++%F0%9F%91%8B+)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAlejae1998=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/Alejae1998=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
  🌱 -I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
  📍- Beased in Portland, Oregon

@@ -1,5 +1,6 @@
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=F7EA55&lines=Hello+there%2C++I'm+Alejandra++%F0%9F%91%8B+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7CF2B&lines=Hello+there%2C+I'm+Alejandra+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
 
 ---
 
@@ -31,7 +32,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-     <div>
+     
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -41,4 +42,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-</div>
+

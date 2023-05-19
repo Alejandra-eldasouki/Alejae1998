@@ -19,7 +19,6 @@
 
 ### :woman_technologist: About Me :
 
- - 🌱 I’m currently enrolled at Alchemy Code Lab learning Full Stack Web Development
  - 📍 Based in Portland, Oregon
  - 🔭 I'm currently expanding my knowledge about web development. Which consists of:
      -Languages: HTML, CSS, JavaScript, Python
